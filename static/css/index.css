@@ -755,6 +755,7 @@ a:focus {
 
 .affil-1, .affil-1 sup { color: #3b8d3f; }   /* soft green */
 .affil-2, .affil-2 sup { color: #007C91; }   /* deep aqua */
+.affil-3, .affil-3 sup { color: #313fbd; }
 
 /* Visually + functionally disable buttons */
 a.disabled-link {
